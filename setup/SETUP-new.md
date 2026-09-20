@@ -6,11 +6,6 @@ _If you're looking at this in Cursor, please right click on the filename in the 
 
 Welcome, LLM engineers in the making!
 
-I should confess up-front: setting up a powerful environment to work at the forefront of AI is not as simple as I'd like. For most people these instructions will go great; but in some cases, for whatever reason, you'll hit a problem. Please don't hesitate to reach out - I am here to get you up and running quickly. There's nothing worse than feeling _stuck_. Message me in Udemy or email me and I will unstick you quickly!
-
-Email: ed@edwarddonner.com  
-LinkedIn: https://www.linkedin.com/in/eddonner/  
-
 ## Step 0 - Before we begin - addressing the "GOTCHAS" which trip up many people:
 
 Ignore this section at your peril! 80% of the questions I get about setup are solved by these very common system issues.
@@ -69,7 +64,7 @@ Click Download for Windows. Then run the installer. Accept and pick defaults for
 
 Then go to Start menu, enter cursor. Cursor will come up, and you might need to answer questions. Then you should see the 'new window' screen where you can click "Open Project". If not, go to File menu >> New Window. Then click "Open Project".
 
-[IMPORTANT: Does your Cursor look different to mine? Solution here (bypass new splash screen)](https://edwarddonner.com/avatar?q=54)  
+[IMPORTANT: Does your Cursor look different to mine? Solution here (bypass new splash screen)]
 
 Find your llm_engineering directory within your projects directory. Double click on llm_engineering so you're looking at the contents of llm_engineering. Then click Open or Open Folder.
 
